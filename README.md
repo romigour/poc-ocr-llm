@@ -4,10 +4,19 @@
 - Lancer le serveur Ollama `ollama serve` (Possiblement le fermer s'il est déjà lancé)
 - Lancer le model souhaité `ollama run llama3.2-vision`
 
-# LLM choisi
+# Version MainLlamaVisionMistral
 
+## LLM
 - `llama3.2-vision` pour l'OCR
 - `mistral` pour structurer les données
+
+# Version MainTesseractNuExtract
+
+## Tool
+- Tess4j : https://sourceforge.net/projects/tess4j/ 
+
+## LLM
+- `nuextract` pour structurer les données
 
 # LangChain4j
 
